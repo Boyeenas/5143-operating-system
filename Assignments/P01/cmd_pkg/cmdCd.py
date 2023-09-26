@@ -3,8 +3,7 @@ import os
 This Python code implements a function named cd that resembles 
 changing the current working directory (similar to invoking the 
 "cd" command in a command-line interface). It accepts the keyword
- arguments "params" (for defining a directory path) and 
-"flags" (which it doesn't utilize in this code)..
+ arguments "params" (for defining a directory path).
  If 'params' is used, it checks to see if the first parameter 
 is ".." to move up one folder, "" to go to the user's home directory, 
 or a regular directory path to change to that directory.
