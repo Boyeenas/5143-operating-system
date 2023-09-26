@@ -3,7 +3,7 @@
 # It checks if three specific keyword arguments ('params', 'flags', and 'data') are present in kwargs.
 # If 'params' is present, it assumes it's a list with a file path and reads the first file's content.
 # If 'data' is present, it takes its value as text data.
-# Then, it splits the text into lines and returns either the first 10 lines of text.
+# Then, it splits the text into lines and returns the first 10 lines of text.
 # 'output' variable holds the result that the function returns.
 
 
