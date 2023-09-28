@@ -210,7 +210,7 @@ prints history
 
 ***Commands***:
 
-![whodidwhat](https://github.com/divyapodila/5143-P01/assets/123696771/5e6d9f09-aabf-4bc8-b884-20ded6d87109)
+![image](https://github.com/divyapodila/5143-P01/assets/112122093/ea81999a-128b-49dd-8e67-40b72a21a03f)
 
 
 
@@ -243,4 +243,3 @@ Not implemented:
 - For shutil module
 
  https://www.geeksforgeeks.org/delete-an-entire-directory-tree-using-python-shutil-rmtree-method/
-
