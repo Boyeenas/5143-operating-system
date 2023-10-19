@@ -10,8 +10,12 @@
 
 #### Overview:
 This is a project written in python that implements a Virtual FileSystem.
-This project will implement a virtual database that uses Sqlite as its storage. We will not be storing files that huge, or storing thousands of them, so we should be fine. If there ever is an issue, it's not hard to change to PostGres or similar. This virtual file system will store all content in a single table like you see below. Our table will contain columns that represent the properties commonly found in a Linux long listing (e.g., ls -l). 
 
+Then we mimick shell commands on the virtual file system that's been created.
+
+we used sqlite to create a database,created a table,made a connection to the database and inserted the fake files into the it. Once the data has been pushed to the table now we wrote functions to mimick the shell commands such as ls -lah, mk_dir, cd, mv, cp, rm, pwd and chmod.
+
+We mimick the shell commands with the help of some of the built-in functions of the sqlite such as insert, search, update and delete.
 #### Instructions
 
 import all the packages
@@ -21,17 +25,6 @@ import all the packages
 Then run the Walkthrough.py
 
 **Commands**:
-Command	Description 	Author
-ls -lah	Directory Listing	Rakesh
-chmod	Modify Permissions	Rakesh
-mkdir	Create a Directory	Rakesh
-cd	Change Directory	Divya
-rm	remove a file	Divya
-getFileID	to get File ID from Path	Divya
-cp	Copy a file	Soundarya
-mv	Move a file	Soundarya
-pwd	current working directory	Soundarya
-
 
 
 
