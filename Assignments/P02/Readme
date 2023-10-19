@@ -21,6 +21,16 @@ import all the packages
 Then run the Walkthrough.py
 
 **Commands**:
+Command	Description 	Author
+ls -lah	Directory Listing	Rakesh
+chmod	Modify Permissions	Rakesh
+mkdir	Create a Directory	Rakesh
+cd	Change Directory	Divya
+rm	remove a file	Divya
+getFileID	to get File ID from Path	Divya
+cp	Copy a file	Soundarya
+mv	Move a file	Soundarya
+pwd	current working directory	Soundarya
 
 
 
