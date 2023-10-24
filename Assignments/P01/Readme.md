@@ -210,7 +210,7 @@ prints history
 
 ***Commands***:
 
-![image](https://github.com/divyapodila/5143-P01/assets/112122093/ea81999a-128b-49dd-8e67-40b72a21a03f)
+https://github.com/Boyeenas/5143-operating-system/blob/main/Assignments/P01/p01.png
 
 
 
