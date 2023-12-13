@@ -3,9 +3,10 @@
 
 #### Group Members
 
+- soundarya boyeena
 - Rakesh Rapalli
 - Divya podila
-- soundarya boyeena
+
 
 #### Overview:
 This is a project written in python that implements a basic shell where it runs most of the commands that a shell does.
